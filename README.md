@@ -1,15 +1,16 @@
 # Simple System for Automated Trading on bitFlyer
-
+Japanese explanation is available from [here](https://nojisan.com/automated_trade_bot/).
 ## Overview
 This is a simple system for automated trading on Bitflyer. The system uses exponential moving average (EMA) for trading. This is a practice project and is NOT intended to run on other people's devices.
 
 ## Description
 ### Environment
-| -------------- | -------------- |
-|  Trading Floor |  bitFlyer  |
-| Device | Raspberry Pi 4B <br> 4GB model  |
-|  OS  |  Raspberry Pi OS  |
-|  Language | Python 3.9.7 |
+|               |                           | 
+| ------------- | ------------------------- | 
+| Trading Floor | bitFlyer                  | 
+| Device        | Raspberry Pi 4B 4GB model | 
+| OS            | Raspberry Pi OS           | 
+| Language      | Python 3.9.7              | 
 
 ### Trading Algorithm
 #### Trade Timing
