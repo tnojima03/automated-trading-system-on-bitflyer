@@ -21,4 +21,6 @@ In addition to checking the EMA once an hour, it always checks the valuation of 
 
 ### LINE Notification
 When the system takes a position or closes a position, the line is notified. The notification will show the execution time, side, execution price, and the volume of cryptocurrency traded. If a position is closed, the profit (or loss) made by the position will be displayed in addition to them.
-![line notification example](https://github.com/tnojima03/images_for_readme/blob/master/images/line_notificaton_example.jpg)
+
+
+<img src="https://github.com/tnojima03/images_for_readme/blob/master/images/line_notificaton_example.jpg" width="320px">
