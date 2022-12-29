@@ -1,7 +1,7 @@
 # Simple System for Automated Trading on bitFlyer
 Japanese explanation is available from [here](https://nojisan.com/automated_trade_bot/).
 ## Overview
-This is a simple system for automated trading on Bitflyer. The system uses exponential moving average (EMA) for trading. This is a practice project and is NOT intended to run on other people's devices.
+This is a simple system for automated trading on Bitflyer. This system uses exponential moving average (EMA) for trading. This is a practice project and is NOT intended to run on other people's devices.
 
 ## Description
 ### Environment
